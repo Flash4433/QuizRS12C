@@ -1,0 +1,142 @@
+1 Qual é a resolução de uma imagem Full HD?
+1280x720
+1920x1080
+2560x1440
+800x600
+
+2 O que significa a sigla "www" na Internet?
+Web World Wide
+Web Wide World
+World Wide Web
+World Web Wide
+
+3 Quantos bits cabem em um byte?
+1 bit
+8 bits
+12 bits
+64 bits
+
+4 Quem fundou a Apple Computer, Inc.?
+Fernando Mendes
+Bill Gates
+Steve Jobs
+Stephen Hawking
+Steve Jobs founded Apple Computer with Steve Wozniak and another partner in 1976. Jobs became the chairman and CEO of Apple in 1996.
+
+5 Qual destes não é um periférico, em termos de computador?
+Keyboard
+Monitor
+Mouse
+Motherboard
+A peripheral is a device that attaches to a computer. The motherboard is within the computer and controls its ability to receive and process electronic signals.
+
+6 Which of these is not a kind of computer?
+Apple
+Lenovo
+Toshiba
+Lada
+A Lada is a kind of car manufactured in Russia. The others are brands of computers sold worldwide.
+
+7 Which of these products is not made by the Apple Corporation?
+IMAX
+iPhone
+iMac
+iPod
+The IMAX, which stands for “Image Maximum,” is a large-screen motion picture technology invented in Canada.
+
+8 Com qual destes dispositivos está o telefone mais relacionado?
+Radio
+Telegraph
+Light bulb
+Telescope
+The cellular telephone carries voice, text, and other digital signals via radio waves, like a two-way police radio.
+
+9 Qual destes é um formato de ficheiro para imagens digitais?
+CIA
+JPG
+ICBM
+IBM
+With JPEG, a digital image can be compressed to 5 percent of its original size, making it easy to transfer electronically and store.
+
+10 Which of these is not a telephone?
+Razr
+Blackberry
+iPod
+iPhone
+An iPod is a music-listening device. It lacks a phone. Its cousin, the iPhone, has a telephone built in.
+
+
+
+
+
+11 O tamanho dum cabo de fibra óptica é mais parecido com o quê?
+Conduta elétrica
+Bambu
+Fio de telefone
+Cabelo humano
+Um cabo de fibra óptica tem quase o tamanho de um cabelo humano, mas pode transportar mais informações do que um fio elétrico muito maior.
+
+12 O que significa PNG?
+Photo Network Grayscale
+Papua New Guinea
+Portable Network Graphics
+Pseudorandom Noise Generator
+
+
+13 When was the DVD introduced?
+1977
+1990
+2000
+1995
+The DVD, which means “digital video disc” or “digital versatile disc,” appeared in 1995. DVDs are often used to store movies.
+
+14 Uma rede de computadores privada de uso exclusivo de um local é chamada de:
+World Wide Web
+Yahoo
+Intranet
+Internet
+An intranet is a private computer network, usually within an organization or group and is limited to its members for sharing information.
+
+15 Qual destes não é um dos primeiros computadores?
+ENIAC
+UNIVAC
+NASA
+SAGE
+NASA stands for the National Aeronautics and Space Administration. It is an agency of the U.S. government.
+
+16 Quantas linguagens de programação são usadas atualmente?
+2000
+5000
+50
+20
+There are about 2,000 computer languages in active use, whereas there were only 15 in use in 1970.
+
+17 What was the first commercially successful video game ever?
+Tetris
+Pong
+Minecraft
+Roblox
+Pong is a table tennis-themed arcade sports video game, manufactured by Atari and released in 1972.
+
+18 How many Call of Duty games exist, not counting add-ons and DLCs?
+24
+8
+17
+33
+Call of Duty: Modern Warfare 3 - Defiance is the best Call of Duty ever, and that's a fact.
+
+19 What does CPU stand for?
+Communist Party of Ukraine
+Central Processing Unit
+Computer Power User
+Critical Patch Update
+Central Processing Unit, but the Communist Party of Ukraine is a close second.
+
+20 What did LG in LG Electronics originally stand for?
+Life's Good
+Luxury Goods
+Laser Guided
+Lucky-Goldstar
+While they nowadays associate LG with their tagline "Life's Good", it used to stand for "Lucky-Goldstar", the two companies that merged to form LG.
+
+Me.Icon = New Icon(Me.GetType(), "Happy.ico")
