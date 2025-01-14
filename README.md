@@ -3,7 +3,7 @@
 A Quiz game made in Visual Basic for Computer Apps B. **Only available in Portuguese.**
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-For archival purposes only. 
+For archival purposes only. November 2021.
 
 ## Description
 
